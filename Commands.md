@@ -1,4 +1,4 @@
-# Команды RannyBot ()
+# Команды RannyBot
 #### Информация
 /help, /info, /stats, /server_info, /user_info, /warnson
 ___
